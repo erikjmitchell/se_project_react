@@ -1,8 +1,10 @@
 .card {
   width: 323px;
+  height: 326px;
   position: relative;
   display: flex;
   justify-content: center;
+  color: #0000004d;
 }
 
 .card__name {

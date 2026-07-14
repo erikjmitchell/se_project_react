@@ -1,0 +1,23 @@
+.modal__content {
+  position: absolute;
+  background: #fff;
+  padding: 32px;
+  border-radius: 8px;
+}
+
+.modal__content_type_image {
+  padding: 0;
+  max-width: fit-content;
+  position: relative;
+  border-radius: 8px;
+}
+
+.modal__close {
+  width: 20px;
+  height: 20px;
+}
+
+.modal__caption {
+  width: 119px;
+  font-size: 20px;
+}

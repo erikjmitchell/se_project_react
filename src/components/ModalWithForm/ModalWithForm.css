@@ -1,4 +1,5 @@
 .modal {
+  font-family: cabinet-grotesk, Arial, Helvetica, sans-serif;
   position: fixed;
   top: 0;
   left: 0;
@@ -23,6 +24,8 @@
   position: absolute;
   top: 20px;
   right: 28px;
+  background-image: url(../../images/exitbutton.svg);
+  border: none;
 }
 
 .modal__content {
