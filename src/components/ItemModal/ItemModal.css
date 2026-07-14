@@ -15,6 +15,11 @@
 .modal__close {
   width: 20px;
   height: 20px;
+  position: absolute;
+  top: 20px;
+  right: 28px;
+  background-image: url(../../images/exitbutton.svg);
+  border: none;
 }
 
 .modal__caption {

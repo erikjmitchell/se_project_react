@@ -8,9 +8,13 @@
 }
 
 .card__name {
+  font: Cabinet Grotesk;
   position: absolute;
   top: 15px;
   margin: 0;
+  background-color: #fff;
+  font-size: 16px;
+  color: #00000099;
 }
 
 .card__image {
