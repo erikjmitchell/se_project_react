@@ -134,7 +134,7 @@ export const defaultClothingItems = [
   {
     _id: 11,
     name: "Shorts",
-    weather: "Hot",
+    weather: "hot",
     link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/wtwr-project/Shorts.png?etag=d728c496643f610de8d8fea92dd915ba",
   },
   {
@@ -174,4 +174,4 @@ export const coordinates = {
   longitude: -74.1605,
 };
 
-export const APIkey = "c92fc5df5b3902cfc08ad890d4c058c9";
+export const apiKey = "c92fc5df5b3902cfc08ad890d4c058c9";
