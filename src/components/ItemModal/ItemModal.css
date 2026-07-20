@@ -12,7 +12,7 @@
   border-radius: 8px;
 }
 
-.modal__close {
+.modal__close_type_image {
   width: 20px;
   height: 20px;
   position: absolute;

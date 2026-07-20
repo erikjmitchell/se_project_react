@@ -28,6 +28,15 @@
   background-image: url(../../images/addclosebutton.png);
   border: none;
   background-repeat: no-repeat;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+}
+
+.modal__close_type_grey {
+  background-image: url(../../images/addclosebutton.png);
+  top: 20px;
+  right: 10px;
 }
 
 .modal__content {
@@ -80,4 +89,16 @@
 
 .modal__submit:hover {
   background: #00000099;
+}
+
+.modal__content_type_image {
+  border-radius: 16px;
+}
+
+.modal__caption {
+  padding-left: 16px;
+}
+
+.modal__weather {
+  padding-left: 16px;
 }
